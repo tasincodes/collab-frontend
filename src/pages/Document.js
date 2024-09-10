@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Login() {
+function Document() {
   return (
     <div>
       <h1>Document Page</h1>
@@ -9,4 +9,4 @@ function Login() {
   );
 }
 
-export default Login;
+export default Document;
